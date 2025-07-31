@@ -65,4 +65,4 @@ async def saludo(ctx, mensaje:str):
     await ctx.send(speak(mensaje))
 
 
-bot.run("MTM5MDQyNzk2NDEzODcxNzE4NA.G_HX2L.G-xI8dvwgMMYPzgB2NRsNwQjngVfw16eaH-Zb0")
+bot.run(token redacted)
